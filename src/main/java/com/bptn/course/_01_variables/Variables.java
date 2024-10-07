@@ -31,4 +31,12 @@ public class Variables {
         System.out.println("Character variable: " + myChar);
         System.out.println("String variable: " + myString);
     }
+package com.bptn.course._01_variables;
+
+public class Variables {
+
+	public static void main(String[] args) {
+
+	}
+
 }
